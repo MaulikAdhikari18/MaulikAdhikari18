@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing B.Tech Computer Science at **UPES, Dehradun** (CGPA: 8.845)
+- 🎓 Pursuing B.Tech Computer Science at **UPES, Dehradun**
 - 💼 AI/ML Intern at **Laximo Tech Solutions Pvt. Ltd.**
 - 🤖 Built AI chatbots, B2B platforms, and ML models
 - 📱 Mobile dev with Flutter · Full-stack with Spring Boot + Next.js
